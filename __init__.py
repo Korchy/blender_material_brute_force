@@ -20,7 +20,7 @@ bl_info = {
     'version': (1, 0, 0),
     'blender': (2, 93, 0),
     'location': '3D ViewPort - N panel',
-    'description': 'Change material and make render'
+    'description': 'Changes material on the active object and makes render'
 }
 
 
